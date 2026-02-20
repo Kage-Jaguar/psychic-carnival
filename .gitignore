@@ -1,0 +1,33 @@
+# Unreal Engine 5
+
+# Binaries
+/Binaries/
+
+# Build artifacts
+/Build/
+
+# Intermediate files
+/Intermediate/
+
+# Saved files
+/Saved/
+
+# Derived data cache
+/DerivedDataCache/
+
+# Project files
+!/*.uproject
+
+# Visual Studio files
+.vs/**
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.log
+
+# Compiled source code
+*.dll
+*.exe
+*.lib
